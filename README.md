@@ -1,2 +1,2 @@
 # Python-Summer2024
-Repo for summer Python course
+This repository stores the files from my introduction to programing with python course.
